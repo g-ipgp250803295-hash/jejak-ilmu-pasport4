@@ -1,0 +1,11 @@
+JEJAK ILMU - PASPORT AUTOMATIK
+
+1. Upload index.html dan selesai.html ke repo jejak-ilmu-pasport.
+2. Di Google Sites, letak butang SELESAI MENEROKA di bawah setiap halaman dan pautkan:
+   Jejak Sejarah: https://g-ipgp250803295-hash.github.io/jejak-ilmu-pasport/selesai.html?misi=sejarah
+   Galeri Pendidikan: https://g-ipgp250803295-hash.github.io/jejak-ilmu-pasport/selesai.html?misi=galeri
+   Arkib Laporan: https://g-ipgp250803295-hash.github.io/jejak-ilmu-pasport/selesai.html?misi=arkib
+   Cabaran & Refleksi: https://g-ipgp250803295-hash.github.io/jejak-ilmu-pasport/selesai.html?misi=cabaran
+3. Di Mula Meneroka, letak pautan BUKA PASPORT ke https://g-ipgp250803295-hash.github.io/jejak-ilmu-pasport/ (buka tab baharu untuk elak storan iframe).
+4. Pengunjung isi nama, klik MULA PENGEMBARAAN, dan selesai halaman melalui butang yang diberi.
+5. Cop direkod apabila butang ditekan; bukan pengesanan bacaan sebenar. Gunakan pelayar/peranti sama.
